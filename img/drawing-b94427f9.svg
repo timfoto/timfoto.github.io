@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="780"
+   height="500"
+   version="1.1">
+  <g
+     transform="translate(-60,-133)"
+     style="display:inline">
+    <circle
+       style="fill:none;stroke:#555;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.60402021,0,0,0.60402021,205.32602,251.97495)"
+       cx="402"
+       cy="207.00002"
+       r="20" />
+    <rect
+       style="fill:none;stroke:#555;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       width="647.62964"
+       height="444.80777"
+       x="69.296455"
+       y="164.46942" />
+  </g>
+  <g
+     style="display:inline"
+     transform="translate(-60,-133)">
+    <path
+       style="fill:none;stroke:#555;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 157.17975,581.88627 c 0,0 32.32488,-71.72083 102.0254,-259.6092 69.70053,-187.88837 47.07312,-127.07719 47.07312,-127.07719" />
+    <path
+       style="fill:none;stroke:#555;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 98.590888,441.27304 c 0,0 65.659922,36.36549 193.949302,-3.03046 128.28937,-39.39595 122.22846,-31.31473 122.22846,-31.31473 0,0 -59.599,93.94419 -69.70053,114.14724 -10.10153,20.20305 -21.2132,48.48732 -16.16244,54.54824 5.05076,6.06091 8.44924,-10.62183 96.97464,-63.63961 98.05444,-58.72471 88.89343,-37.37565 90.91373,-31.31473 2.02031,6.06091 -27.27412,70.71068 -15.15229,77.78174 12.12183,7.07107 17.82714,-11.00747 56.56855,-30.30457 38.27562,-19.06509 47.02294,-11.18758 47.53844,-10.54795 2.93846,3.64604 3.83122,2.99228 -0.0613,34.79161 -4.14039,33.82428 7.07106,15.15229 52.52793,5.05076 45.45686,-10.10152 38.3858,5.05076 41.41625,14.14214 3.03046,9.09137 2.97996,22.31174 41.41626,24.24366 51.49238,2.58816 60.60915,3.03046 60.60915,3.03046" />
+    <path
+       style="fill:#555;fill-rule:evenodd;stroke:#555;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 832.314,598.84465 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z" />
+  </g>
+</svg>

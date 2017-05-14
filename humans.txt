@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Thorsten Raedisch -- Content
+    Jasper Raedisch -- Content, Design & Development -- @jraedisch
+
+# THANKS
+
+    Katharina Schumacher
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
